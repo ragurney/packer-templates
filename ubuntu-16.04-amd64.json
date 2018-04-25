@@ -44,6 +44,7 @@
     "type": "shell",
     "scripts": [
       "scripts/ubuntu/apt.sh",
+      "scripts/ubuntu/memory_swap_accounting.sh",
       "scripts/ubuntu/virtualbox.sh",
       "scripts/ubuntu/vmware.sh",
       "scripts/common/vagrant.sh",
